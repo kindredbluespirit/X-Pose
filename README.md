@@ -200,6 +200,10 @@ python app.py
 
 • We provide the [annotations](https://drive.google.com/file/d/1ukLPbTpTfrCQvRY2jY52CgRi-xqvyIsP/view) with precise keypoints' textual descriptions for effective training. More conveniently, you can find the text annotations in the [link](https://github.com/IDEA-Research/UniPose/blob/master/predefined_keypoints.py).
 
+### Fixes
+
+https://github.com/princeton-vl/DROID-SLAM/issues/149
+
 
 ### Citing X-Pose
 If you find this repository useful for your work, please consider citing it as follows:

@@ -1,0 +1,9 @@
+models/UniPose/ops/MultiScaleDeformableAttention.egg-info
+
+**/build/
+
+.gradio/
+**/__pycache__/
+
+output/
+weights/
